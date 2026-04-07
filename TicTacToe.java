@@ -1,7 +1,5 @@
 public class TicTacToe
 {
-   // Copy over code from Tic-Tac-Toe Game, Part 1
-    // Declare instance variables
     private String[][] board;
     private int turn;
     
